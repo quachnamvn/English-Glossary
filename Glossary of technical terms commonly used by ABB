@@ -1,0 +1,538 @@
+#https://new.abb.com/media/glossary
+
+A
+ABB Ability™ System 800xA: The ABB Ability™ System 800xA is used in many industry sectors to oversee and control a wide range of processes. It extends the scope of traditional control systems to include all automation functions within a single operations and engineering environment. This means that ABB Ability™ System 800xA is not only a Distributed Control System (DCS) it’s also an HMI SCADA, electrical control and power management system, a safety system and much more. At the core of ABB Ability™ System 800xA is a flexible integration platform that provides the means of achieving measurable productivity and profitability improvements. Based on Aspect Object technology, ABB’s integration architecture relates all plant data (the Aspects) to specific plant assets (or Objects). The platform’s client-server architecture streamlines controller communications, centralize configuration and back-up task, and provides system-wide management of data for trend, history and audit trail purposes. The collaborative environment of ABB Ability™ System 800xA delivers a plant wide overview that enables operator effectiveness and asset optimization.
+
+Actuator: In electrical engineering, the term actuator refers to a mechanism that causes a device to be turned on or off, adjusted or moved, usually in response to an electrical signal. In some literature the terms actor or effector are also used. The term “effector” is preferred by programmers, whereas engineers tend to favor “actuator.” An example of an actuator is a motor that closes blinds in response to a signal from a sunlight detector. Actuators enable computers to control complex manufacturing processes without human intervention or supervision. 
+
+Advanced process control (APC): In general terms, advanced process control refers to large-scale computer systems that are used to monitor and control processing plants such as cement factories or oil refineries. The systems extend traditional process control, which is used to monitor and control individual processes, by evaluating and controlling multiple processes across the plant. By monitoring multiple processes, APC systems can optimize operations for multiple parameters, evaluating the impact each adjustment will have on neighboring operations by referencing current and historical data. With a broad yet detailed view of an entire plant’s operations, APC applications allow processes to operate closer to their maximum capacity, while maintaining the necessary standards of reliability and safety. 
+
+Air-insulated switchgear: see Switchgear.
+
+Algorithm: A set of (mathematical) instructions or procedures for carrying out a specific task such as defining the steps taken by an automation system.
+
+Alternating current (AC): Alternating current is a form of electricity in which the current alternates in direction (and the voltage alternates in polarity) at a frequency defined by the generator (usually between 50 and 60 times per second, ie, 50 - 60 hertz). AC was adopted for power transmission in the early days of electricity supply because it had two major advantages over direct current (DC): its voltage could be stepped up or down according to need using transformers (see Transformer), and it could be interrupted more easily than DC. Neither advantage is as relevant today as it once was because power electronics can solve both issues for DC. (See also Direct current and Transmission and distribution.)
+
+Alternator: see Generator.
+
+Ampere: The standard unit of electrical current. (See also Current.)
+
+Arc flash: An arc flash is caused by current flowing between two conducting surfaces and most commonly occurs in switchgear as a result of faulty equipment or poor work practices. Left unchecked, arc flashes release a tremendous amount of energy in a high-pressure blast of heat and debris, which can result in serious injuries to workers and damage to equipment.
+
+Arc welding: A group of welding procedures that fuse metal pieces by melting them together, using heat from an electric arc between an electrode and the work piece. The arc is caused by electrical current flowing though plasma consisting of ionized air molecules and metal ions. Material from the electrode is transferred to the work piece, and the electrode is consumed over time. Arc-welding processes are attractive because of their low capital and running costs.
+
+Arc-welding cell: The area of a factory set up to weld metals using electric arcs. ABB provides modular robotic arc-welding cells that are ready to install in a customer’s plant.
+
+Aspect object: Aspect Object technology, relates all plant data, the Aspects, to the specific plant assets, the Objects. This technology enables one click navigation, efficient engineering and presentation of the right information in the right context to the right user. Different aspects enable every user to zoom in on the information they are interested in without having to cut through obstructive clutter to get to it.
+
+Asset management: Also referred to as industrial and plant asset management. Asset management systems collect and manage data on the condition and availability of major plant equipment in discrete and process manufacturing plants. This enables plant operators to plan maintenance schedules more effectively (condition-based maintenance), avoiding both unnecessary equipment inspections and unexpected breakdowns, which can cause expensive interruptions in production time. Computerized asset management systems gather data in real-time to ensure maximum production uptime and throughput, with a minimum of human interaction. 
+
+Asynchronous machines: See Machines
+
+Azipod: The registered trademark of a family of modular electric propulsion systems for ships, the first of which was co-developed by ABB in the 1980s. The Azipod unit is fitted to the ship’s hull externally in a pod, or casing, and combines the functions of a propulsion motor, main propeller, rudder and stern thruster. Since these functions are no longer installed as separate units inside the ship, space onboard can be used for other purposes. Azipod units also contribute to improved hydrodynamics, which result in fuel savings of around 15 percent compared to conventional propulsion systems. 
+
+Back to the top
+
+B
+Back-to-back connection: In HVDC terms, links used to connect neighboring grids are often referred to as “back-to-back” connections, indicating that the distance between the two grids is minimal. Such connections are able to link independent power grids, including those operating at different frequencies, and enable power to flow from one grid to another. This means that generators on either grid can be used to secure the supply of electricity across the extended network. The connections can also improve voltage and frequency stability in the linked grids.
+Note: The term “back-to-back connection” is also used to describe a test set-up for electrical devices where a motor and a generator are connected to the same shaft line.
+
+Bandwidth: 1. In computing, bandwidth is often a synonym for the rate of information transmitted by a network connection or interface. For example, a modem’s bandwidth might be described as 56K, which means it is capable of transmitting 56,000 “bits” of information per second. A bit is the smallest unit of computerized data, comprising a single binary digit (ie, 1 or 0).
+2. Bandwidth in electronic communication is the difference between the highest- and the lowest-frequency signal in a given transmission medium. It is measured in hertz (Hz).
+
+Barge: In the oil and gas industry, a barge is an unpowered multipurpose marine vessel. Barges are used as cargo tankers, equipment and supply carriers, crane platforms and support and accommodation bases in offshore drilling, and as submarine pipe-laying vessels.
+
+Base-load power plant: To maintain power supplies as efficiently as possible, some power stations run near to full capacity all the time, while others are brought online or increase production temporarily to meet transient peaks in demand for electricity. The plants that maintain constant levels of production tend to be those that rely on lower-cost fuels and are known as “base-load” power plants.
+
+Biofuel: Fuel derived from biomass, ie, (recently) living organisms. This does not include fossil fuels such as coal and oil, which are derived from ancient organisms. Bioethanol, a fuel derived from sugar cane, corn and similar materials is an example of a biofuel. (See also Carbon cycle.)
+
+Blackout: A complete loss of power resulting from damage or equipment failure in a power station, power lines or other parts of the power system. A blackout may also be referred to as a power outage or power failure. (See High-current transients, Reactive power, Wide-Area Monitoring Systems.)
+
+Black-start capability: The ability of a power system (a generator or grid subsection) to restart after a blackout, independently of the larger grid, by using local generators. For example, HVDC Light transmission systems can be fitted with small diesel generators to provide auxiliary power that can be operational almost immediately in the event of a blackout. This power enables voltage control to be established and normal operations to be resumed quickly.
+
+Brownout: A dip in the voltage level of a power system, which can damage electrical equipment or cause it to under perform, eg, lights dim. (See Voltage drop.)
+
+Busbar: An electrical conductor that makes a common connection between several circuits. Sometimes, electrical wire cannot accommodate high-current applications, and electricity must be conducted using a more substantial busbar — a thick bar of solid metal (usually copper or aluminum). Busbars are uninsulated, but are physically supported by insulators. They are used in electrical substations to connect incoming and outgoing transmission lines and transformers; in a power plant to connect the generator and the main transformers; in industry, to feed large amounts of electricity to equipment used in the aluminum smelting process, for example, or to distribute electricity in large buildings
+
+Bushing: A bushing is a cyclindrical insulating component, usually made of ceramic, that houses a conductor. It enables a conductor to pass through a grounded enclosure, such as a transformer tank (the physical shell of a transformer), a wall or other physical barrier, to connect electrical installations. In the case of a transformer, bushings protect the conductors that connect a transformer’s core to the power system it serves through channels in the transformer’s housing.
+
+Back to the top
+C
+Capacitance: The ability of a device to store an electrical charge (electrical charge is what flows in electric current). Capacitance is used in many different applications. (See Capacitor.) The unit of capacitance is the Farad, though it can also be referred to in Coulombs per volt (Coulomb being the standard unit of electrical charge). The Farad is a very large unit and capacitances are usually on the order of microfarads, µF (1 µF = 10-6 F) and picofarads, abbreviated pF (1 pF = 10-12 F).
+
+Capacitor (also referred to as a condenser): A multi-purpose device that can store electrical charge in the form of an electric field. It is used, for example, for power factor correction in (inductive) AC circuits. Capacitors are used to buffer electricity (smooth out peaks) and to guard against momentary voltage losses in circuits (when changing batteries, for example). (See also Capacitance.)
+
+Capacitor bank: A number of capacitors connected in parallel. (See also Parallel.)
+
+Carbon cycle: The circulation of carbon through its various forms in the environment. Briefly, carbon dioxide in the atmosphere is fixed (ie, converted into solid matter) by the process of photosynthesis in plants and green algae. These then die and rot under the influence of bacteria and fungi or are consumed by higher organisms in the form of food or fuel (burning plant matter or fossil fuels). Either way, carbon is released into the atmosphere as carbon dioxide and is available again for fixation (ie, incorporation into biomass).
+
+Cascading power failure: A cascade happens when a part of the power grid fails, and shifts its power load to other elements in the grid. Overloaded, these elements also begin to shut down and shift their power load onto other elements, and so on. The resulting surge current can induce ongoing failures and take down an entire power system in a very short time, “cascading” through parts and systems like a ripple on a pond until the grid collapses.
+
+Charging station: An installation at which an electric vehicle can be plugged into the grid to charge its battery. There are several types of charging station, including low-voltage, lower current installations that charge a battery over a period of several hours (for use in homes, for example), and higher-voltage, higher current fast-charging stations for a more rapid service in public places (car parks, public buildings, etc.).
+
+CHP: Combined heat and power, an acronym for the co-generation of heat and power. (See Co-generation.)
+
+Circuit breaker: Devices that interrupt high currents to protect electrical equipment from damage caused by current surges, eg, from a short circuit or a lightning strike. (On a much smaller scale, they are used as an alternative to fuses in the home.)
+
+Circuit breakers are typically classified according to the medium they use to inhibit arc formation between the open contacts of the breaker. Media used include air, sulfur hexafluoride gas, oil and a vacuum.
+
+Closed Control System (CCS): This is a system used to regulate a process using feedback control (as opposed to an open control system, which relies on feed forward control). A closed system responds to actual system conditions with a range of responses. It is slower to react to changes in process conditions than an open system, but it is more specific in its responses and is able to deal with a broader range of conditions. An example of closed loop control is a driver steering a car. If the car veers to the left, the driver steers right to compensate.
+
+Co-generation: A particularly efficient method of electricity generation that diverts heat, produced as a by-product of the power generation process, to domestic and industrial heating systems. The heat is produced by combustion of fuel in the power station to create the steam that drives the generating turbines. It would otherwise be released to the atmosphere.
+
+Collaborative production management (CPM): A method of unifying disparate yet interdependent production systems in order to optimize productivity. Computerized CPM solutions are software applications that enable process manufacturers to plan, track, analyze and direct their operations.
+
+Combined-cycle power plant: conventional thermal power stations produce steam to drive turbines that generate electricity. In a combined cycle plant, two turbines are used. The first is driven by oil or gas, and waste heat from that process contributes to the production of steam to drive the second turbine
+
+Combiners: Also called junction box or combiner box. Through this combiner, individual DC circuits from photovoltaic modules are combined into a single output. A combiner might include disconnect devices, overcurrent devices and remote monitoring devices.
+
+Compression train: In the oil and gas industry, the compression train is the entire line of equipment that contributes to process of compressing gas: It includes valves, scrubbers, coolers and recycling loops.
+
+Conductor: An electrical conductor is any substance through which electrical current can flow. Since electrical current is a process involving the flow of electrons, how well a material conducts electricity depends on its atomic structure and chemical consistency.
+Conductivity also depends on how strong the bond is between electrons and the metallic ions with which they are associated. The weaker the bond, the better the conductor. All metals are conductors (copper is a particularly good one). Plastics are not good conductors, but make good insulators. Semi-conductors are materials whose ability to conduct electricity can be controlled.
+Super-conductors, under special conditions, offer no electrical resistance, so electricity can flow indefinitely. More generally, a conductor refers to a material that can transmit electricity, heat or sound.
+
+Concentrating solar power (CSP): CSP is a technology that makes use of precisely oriented mirrors to concentrate sunlight onto receivers that convert the sun's radiation into heat. The heat generated is used to produce steam, which runs a steam turbine, or powers a heat engine driving a generator. The thermal energy can also be stored in order to produce electricity at a later time.
+
+Concentrating photovoltaics (CPV): CPV is a technology that makes use of precisely oriented lenses or mirrors to concentrate the sun's radiation onto photovoltaic cells and produce electricity.
+
+Converter: An electrical device, comprising a rectifier and inverter, used to alter the voltage and frequency of incoming alternating current in an electrical system. The term may also refer to inverters, rectifiers or frequency converters. (See also Converter station, Inverter, Rectifier, Frequency converter).
+
+Converter station: Special equipment is needed to convert electricity from alternating current (AC) to direct current (DC), or vice versa. High-voltage DC (HVDC) converter stations use power electronic devices called thyristors to make these conversions. (See also HVDC and HVDC Light.)
+
+Coupling transformer: A coupling transformer is a device that permits two (usually) separate circuits to influence one another. Such a setup can be desirable for control purposes. It can also be used, for example, to inject high frequency signals into power lines for communications purposes.
+
+Current: The rate at which electrons flow through a circuit is defined as the current. If an electric circuit is likened to water flowing through a system of pipes, the current is analogous to the rate at which the water is flowing. Electric current is measured in amps.
+
+Back to the top
+D
+DC grid: Today’s electrical transmission systems are almost exclusively based on alternating current (AC), but the development of high-voltage, direct current (DC) technology has made it possible to build a DC grid (DC transmission network) that can handle bulk power flows over long distances. Power from such DC grids can be fed into the AC networks as needed. Overlay DC grids would handle fluctuations and instability in the network better than AC systems and are a part of the “smart grid” concept (see also Smart grid).
+
+Demand-response: The term demand-response refers to a variety of technologies required to make demand for electricity more responsive to the supply available. As utilities generate more electricity from intermittent sources of energy such as wind and solar, demand-response technologies are needed to help consumers use power when it is plentiful and reduce their consumption when there is less available.
+
+Direct current (DC): This is electrical current that does not alternate (see Alternating current), the electrons flow through the circuit in one direction. As a result, DC does not generate reactive power (see Reactive Power). This means that, in a DC system, only real (or active) power is transmitted, making better use of the system’s capacity. In order to transmit electrical power as DC, the alternating current generated in the power plant must be converted into DC. At the other end of the process, the DC power must be converted back into AC, and fed into the AC-transmission or distribution network. The transmission of DC current has very low losses. In the conversion between the two forms of power, known as rectification, incurs additional power losses and so it is worth while only when these losses are less than would be incurred by AC transmission, ie, over very long distances (~1000 km for overhead lines, ~100 km for underwater). The other situation in which DC transmission is advantageous is when connecting asynchronous grids, ie, where adjoining electricity grids have different frequencies (eg, 50 or 60 Hz, as happens in some parts of Brazil and the United States). (See HVDC.)
+
+Direct normal irradiance (DNI): DNI is the amount of radiation per surface area received from the sun and a narrow annulus of sky around it that strikes a surface that always faces the sun's radiation.
+
+Direct torque control: A drive system (see Drive) that controls the speed of an electric motor, and hence the torque it can produce on a rotating shaft. The drive works by regulating the amount of power the motor draws from the grid. Torque is an angular force that causes rotation, as seen for example in a car’s engine, which turns the vehicle’s drive shaft.
+
+Disaster Recovery - As related to IT or technology systems that support critical business functions, Disaster Recovery (DR) is the combination of technology, processes, policies and procedures used to prepare for the continuity and recovery of critical infrastructure and/or applications that may otherwise be interrupted by natural or human induced disasters. In SCADA systems, Disaster Recovery is typically deployed using a secondary set of backup servers, installed in a location that is physically separated from the primary server set. The backup servers actively monitor the primary's operations and data processing, in a "warm standby" mode, allowing for fast fail-over in the event of an interruption of service at the primary location. In addition to the backup DR servers providing a system sustainability function, once re-established, the primary servers can retrieve their missing data from the backup servers, ensuring data integrity across both sets of DR servers.
+
+Distributed control system (DCS): A control system that regulates a process (manufacturing, chemical or other) from a series of strategic positions in the processing plant, as opposed to from a single, centralized control unit. Microprocessor-based distributed control systems (DCS) originated in continous process industries (eg, refineries). and integrate distributed automation controllers, networks, application servers, workstations and other modules necessary to build a complete automation system.
+
+Distributed generation: This term refers to electricity generating installations that are scattered across the grid, rather than placed at a central location. They tend to be small-scale generating plants – often operating using renewable fuels. They also include domestic power generators such as roof-top wind turbines and solar panels, and microhydro installations. As more smart technologies are incorporated into the grid, enabling local distribution grids to receive as well as deliver electricity, distributed generation will become an increasingly common feature of our power systems.
+
+Distribution substation: A distribution substation comprises medium-voltage switchgear, transformers and low-voltage distribution equipment. It is used to transfer power from a medium-voltage electricity distribution system to a low-voltage distribution system that serves groups of domestic or industrial consumers.
+
+Distribution transformers: Distribution transformers are used to regulate the supply of power to residential premises, factories and elsewhere. (See also Transformer.)
+
+District heating: a district heating system is one that makes use of heat generated at a central location, often in a thermal power plant, to heat water that is then fed through a communal system, delivering heat to homes in the surrounding area.
+
+Downstream: The oil industry term “downstream” refers to all petroleum activities from the processing of refining crude oil into petroleum products to the distribution, marketing, and shipping of those products. See also Upstream.
+
+Drive: A drive is an electronic device used to regulate the performance of an electric motor. It works by controlling the power, frequency and current the motor draws from the grid. Drives (also referred to as a variable-speed motor drive) can lead to considerable energy savings as most motors are fixed-speed devices that run at full speed, even when a lower speed would suffice. Many motors are controlled by “throttling down,” which is equivalent to slowing a car by using the brake, rather than taking your foot off the accelerator, and does not save energy. Reducing a motor’s speed by half using a drive can reduce the energy it consumes to one-eighth of its consumption at full speed.
+
+Dynamic shunt compensation: A technology used to stabilize voltage by introducing or absorbing reactive power at specific points of a power transmission grid. The system helps to improve power transmission capacity as well as the overall stability of the grid. Dynamic shunt compensation is one of the three main FACTS (Flexible Alternating Current Transmission Systems) technologies, the others being series compensation and dynamic energy storage. (See also Series and Shunt.)
+
+Back to the top
+E
+Eco-efficiency: Combining efficiency and ecological aspects in the pursuit of sustainable development.
+
+Energy Resources Conservation Board: see ERCB Directive 17
+
+Electric motor: A device that converts electrical energy into mechanical energy that can be used to drive mechanical equipment.
+
+Electrical balance of plant (EBoP): The sum of all electrical equipment required for safe and coordinated operation of various parts of a power plant.
+
+Electrical drivetrain: In the wind power industry, this term refers to the combination of the a wind turbine’s generator, converter and transformer.
+
+Electrical units:
+
+	Quantity	Name	Symbol
+	Current	Ampere	A
+	Voltage	Volt	V
+	Power	Watt	W
+Watt = Ampere x Volt
+1,000 A = 1 Kiloampere (=kA)
+1,000 V = 1 Kilovolt (= kV)
+1,000 W = 1 Kilowatt (= kW)
+1,000,000 W = 1,000 kW = 1Megawatt (= MW)
+
+Some examples:
+Voltage
+- In a home the voltage in the outlets is normally 220 or 110 Volt.
+- Large power transmission lines have voltages in the range of 220 - 800 kV.
+
+Power
+- A typical incandescent (not fluorescent) light bulb consumes 40 - 100 Watt.
+- A normal home in North America or Europe consumes power in the range of 1 - 10 kW.
+- A large wind power unit can generate 3,000 kW (= 3 MW)
+- A large coal or nuclear power station can generate 500 - 4,000 MW. (Individual nuclear generating units have a capacity of 1 - 1.3 GW).
+
+Electricity storage: Electricity is difficult to store. The most effective way to store surplus electricity in terms of cost and environmental impact is to use it to pump water uphill into the reservoirs of hydropower plants, a process known as pumped storage. Alternatives include large-scale batteries.
+
+Electromagnetic fields: All stationary charged particles are surrounded by an electric field (measured in volts/meter). Charged particles in motion (eg, electrons in an electrical current) are also surrounded by a magnetic field (measured in amps/meter). The combination of an electric field (around the charged particles) and the magnetic field (generated when the charged particles flow) is known as an electromagnetic field (sometimes abbreviated to EMF). Radio waves are a form of electromagnetic radiation. Note: the terms “electric field” and “magnetic field” are not interchangeable.
+
+Emissions: The release or discharge of substances, effluents or pollutants into the environment.
+
+Energy cost effectiveness: This is a key performance indicator used to judge the productivity of a proves in terms of financial gain per unit of energy consumed.
+
+Energy efficiency: Defined as output energy divided by input energy, and, if necessary, averaged over time. The electrical efficiency of an appliance is defined as the amount of that energy that is converted into a useful form, divided by the total energy it draws. For example, an incandescent light bulb (one with a filament inside the bulb) is said to be inefficient because much of the energy it uses (around 95 percent) is converted into heat rather than light. A fluorescent lamp that works on a different principle is somewhat more efficient because more of the energy it uses is converted into light and less is lost as heat (around 80 percent).
+
+Engineering Procurement and Construction (EPC): Term used to describe contracts in which a company assumes full responsibility for project engineering, material procurement and construction. The term is also used for companies contracted to perform these services.
+
+ERCB Directive 17 - Energy Resources Conservation Board (Alberta, Canada) directive stipulating the standards and requirements for measurement, accounting and reporting of oil, gas and liquids
+
+Back to the top
+F
+FACTS (Flexible Alternating Current Transmission Systems): Refers to a group of technologies that enhance the security, capacity and flexibility of power transmission and distribution systems. The technologies can be installed in new or existing power transmission and distribution lines. Examples of FACTS devices are: Static var compensation (SVC), uses an electrical device (see Static var compensator) to regulate and stabilize voltage in bulk power systems. The most advanced version of this technology is called SVC Light and has additional features, in particular more powerful flicker compensation to stabilize heavy and rapidly fluctuating loads, for example arc furnaces, and to smooth voltage flicker. Series Compensation can be fixed or controllable. The latter is called Thyristor Controlled Series Capacitor (TCSC). Series compensation is a straightforward and cost effective way to improve power transmission capacity and preserve voltage stability, particularly in bulk transmission corridors. Thyristor-controlled series compensation is especially useful for damping power oscillation over interconnections between transmission girds. ABB’s FACTS devices optimize power flow to maximize the capacity of power lines and improve voltage stability by reactive power compensation (see Reactive power and Power factor compensation). In some cases, network capacity can be doubled. The equipment also makes the system more resilient to “system swings” and other disturbances.
+
+Fault-closing device: A system of circuit breakers that serves to contain a fault in a grid, preventing it from spreading to other areas and causing widespread disruption.
+
+Fault ride-through (FRT): Refers to the ability of an electrical device (such as a wind turbine converter) to respond to a temporary fault or voltage change in the transmission and distribution grid, including a zero-voltage dip, and to help the system return to normal operation. Fault ride-through specifications are part of many grid code requirements.
+
+Feeder: Overhead lines or cables that are used to distribute electrical power to consumers. Feeders connect distribution substations and consumers.
+
+Feedstock: A term that refers to crude oil, natural gas liquids, natural gas or other materials used as raw ingredients for making gasoline, other refined products or chemicals.
+
+Frequency converter (frequency changer): At ABB, this term most commonly refers to a device used to adjust the frequency of alternating current. Frequency converters are a central component in variable-speed drives to control the speed, torque or power on the shaft of an electric motor by adjusting the frequency and voltage of the electricity powering the machine. Frequency converters are used to control the rotational speed of wind turbines to stabilize the frequency of the electricity they produce.
+Frequency converters are also used to connect electrical systems operating at different frequencies. For example in shore-to-ship power connections, these devices are used to enable ships, most of which have onboard electrical systems running at 60 Hz, to onshore power supplies that most commonly run at 50 Hz.
+
+Fuel cell: A device in which chemical energy released by the oxidation of a liquid (such as methanol) or gaseous fuel is converted directly into electrical energy.
+
+Back to the top
+G
+Gas-insulated switchgear (GIS): see Switchgear.
+
+Gearless mill drive (GMD): a system consisting of a ringmotor and its associated equipment such as transformers and control systems. Its main application is to drive (rotate) mills in the minerals or cement industry.
+
+Generation mix: The generation mix is a term used to describe the contribution various sources of electricity make to the power supply serving a particular region or population. The portion of renewable energy in the global generation mix is rising in response to concern over climate change and increasing demand for electrical power.
+
+Generator: A device that converts rotating mechanical movement into electric power. The current generated can be either alternating (AC) or direct (DC). ABB manufactures a range of generators, including wind-turbine generators. In a simple AC generator, a loop of wire is placed between the poles of a permanent magnet. The magnet is then rotated and the electromotive force produced by the movement of the electric field causes a current to flow in the wire. This is the principle of the synchronous motor and big generators in power plants. A DC generator operates on the same principle as the AC generator, but includes a device (a commutator), which effectively prevents the current from alternating.
+
+Geographic Information System (GIS) - systems that allow for the presentation and manipulation of real-time, historical and other data together with mapping applications to present information based on their geographic position.
+
+Grid code: This term refers to the requirements developed by power utilities that power generators of all kinds must meet to ensure the proper functioning and stability of the electrical transmission and distribution grid. that define grid fault and other conditions that must be responded to by wind power plants. These include regulations such as n-1 and fault ride-through capabilities (see n-1 and Fault ride-through).
+
+Grid reliability: Power utilities strive to maintain electricity supplies without unexpected dips or surges that can cause disruptions ranging from flickering lights to equipment damage. To avoid these problems, utilities therefore need to control the flow of power under normal running conditions and in emergency situations. This is done by installing sophisticated switching and protection equipment (fuses, circuit breakers, transformers, etc.) in substations, and monitoring equipment (protection relays, phase monitoring units, thermal line sensors etc) at strategic points on the grid. The monitoring units measure the rate and direction of power flow, its stability, the temperature of hot power lines, and other parameters critical to the normal functioning of the grid. The data are transmitted to a central computer, which uses them to calculate the settings for the control equipment housed in the substations and generating plants. This allows power flow to be directed, compensating for overloaded sections of the grid and even shutting down certain connections to prevent the spread of disturbances or to allow maintenance work to be carried out. (See FACTS, Network control, SCADA, Wide-Area Monitoring Systems.)
+
+Back to the top
+H
+Harmonics: Generally, harmonics are oscillations in the base power frequency. In electrical AC systems, the base frequency is typically 50 or 60 hertz (Hz) and harmonics occur in multiples of this, for example 100 Hz, 150 Hz, 200 Hz, etc. where the base frequency is 50 Hz. Harmonics occur whenever there is a disturbance of the voltage or current, eg, if the current is interrupted or if AC current is synthesized in a converter. The problem with harmonics is that electrical devices may react differently when exposed to a different frequency than the one they are designed for, which may cause damage. Harmonics are an increasing problem in power systems as most power electronics solutions cause harmonics. Harmonics can be reduced by the use of power filters.
+
+High-current transients: Short spikes of high electrical current in a grid, caused by lightning strikes, or rapid switching of electrical devices in the grid, especially capacitors. These transients, or surges, cause cables to overheat, potentially damaging insulation and leading to short circuits. Equipment can be protected from high-current transients by using a surge protector.
+
+High-voltage direct current (HVDC): A technology developed by ABB in the 1950s to move large amounts of power over substantial distances - typically by overhead transmission lines, but also by way of submarine cables. Transmitting DC power over long distances is more efficient than AC transmission (see Direct current and Transmission and distribution) and is a cost-effective method of connecting two asynchronous grids (grids operating at different frequencies). An HVDC system takes electrical power from an AC network, converts it to DC at a converter station and transmits it to the receiving point by line or cable, where it is turned back into AC by using another converter. The conversion is carried out with high-power, high-voltage electronic semiconductor valves. These valves are controlled by a computer system, so the amount of transmitted power and also the direction of transmitted power can be precisely controlled, a feature unique to HVDC systems. Another important aspect of HVDC lines is that they can never be overloaded. Because HVDC transmits only active (real) power, no line capacity is wasted on transmitting reactive power. This means that the same power can be transmitted over fewer (or smaller) transmission lines than would be required using AC, and less land is needed to accommodate the lines. HVDC induces minimal magnetic fields, so the power lines may be built safely closer to human habitation.
+In the 1990s ABB developed the HVDC Light technology which made it possible to have long underground transmission (see HVDC Light). In 2006 ABB carried out the first test circuit on +/- 800 kV ultrahigh-voltage DC (see Ultrahigh voltage).
+
+Typical power and voltage range are:
+Classical HVDC: 500 - 6,400 MW (± 150 - 660 kV)
+UHVDC: 6000-8000 MW (± 800 kV)
+HVDC Light: 100-1100 MW (± 150 - 320 kV)
+Hoist, friction hoist: In underground mining, a hoist or winder is used to raise and lower conveyances within the mine shaft.
+All hoists are powered using electric motors. Modern hoists are generally equipped with variable speed drives that minimize energy consumption and control the speed of the hoist.
+
+HVDC Light: An adaptation of classic HVDC, developed by ABB in the 1990s. It can be used to transmit electricity in lower power ranges (tens of megawatts) to an upper range of 1,100 megawatt (MW) (±320 kilovolts). By comparison, classic HVDC (see High-voltage direct current) systems typically transmit electricity in the 500 to 8,000 MW power range. Offering both HVDC and HVDC Light systems extends the economical power range of HVDC transmission.
+The superior controllability is achieved by using IGBTs (ie, transistors) as the power electronic device used for the conversion (see Direct current).
+HVDC Light offers the same benefits as traditional HVDC systems, but also provides more secure power control (superior to classic HVDC) and quick power restoration in the event of a blackout. Because of its superior ability to stabilize AC voltage at the terminals, it is the ideal technology for wind parks, where the variation in wind speed can cause severe voltage fluctuations.
+HVDC Light is environmentally friendly, featuring oil-free cables, compact converter stations and cables that can be laid underground (thereby avoiding local planning difficulties associated with overhead lines) as well as underwater. It is the only technology available that allows long-distance underground high-voltage transmission. It is rarely used for power transmissions using overhead lines. Because of its smaller footprint, underground cable technology and superior controllability, HVDC Light has many more potential applications than classical HVDC, for example: feeding power into cities and offshore oil and gas platforms; strengthening power networks in areas where there is opposition to new overhead lines; and delivering power to islands that would otherwise need local generating plants.
+
+HVSC: High-voltage shore connections enable ships to draw electricity from onshore power grids while in port to operate onboard equipment such as lighting, cooling and heating systems, instead of burning fuel oil to run onboard generators. For a large cruise ship on a 10-hour stay in port, a shore connection can cut fuel consumption by up to 20 tons and reduce carbon dioxide emissions by 60 tons.
+
+Back to the top
+I
+I/O(Input/output): A device that enables communication between electronic equipment and external devices, including human operators. Examples of I/O devices include computer keyboards, printers, sensors and all type of interface cards.
+
+IEC 61850: The International Electrotechnical Commission IEC standard for substation automation replaces a great many communication protocols that require the use of use protocol converters, which are basically “translators” that help electronic devices using different machine languages transmit information to each other. The problem is that protocol converters can cause messaging errors and delays. A single communication standard for substation automation removes the need for “translators,” helps customers lower maintenance and operating costs, and makes installations easier to expand or modify.
+
+Industrial IT: A series of interoperable software and hardware products and systems from ABB and/or third parties that are designed to communicate with each other and work together as part of a larger system for a specific application.
+
+Industrial productivity: Raising industrial productivity means lowering costs for each unit (eg, car, ton of paper, etc.) produced. Manufacturers are under intense pressure to improve productivity and performance to remain competitive, and avoid losing business to more efficient rivals. New technologies and business models are allowing companies to restructure their business processes - things like procurement, manufacturing, research, sales, distribution, and so on - establishing new combinations and locations that enable them to work more closely with partners, suppliers, and customers. Productivity improvements can be achieved by automating operations, improving the asset management, optimizing factories operations, outsourcing, and improving the supply chain management.
+
+Instrument transformer: In contrast to most transformers (which are used to convert power), instrument transformers are components of devices used for measurement or monitoring (eg, to measure voltage or current in transmission lines). As they do not actually transform any significant quantities of energy they are usually small and lightweight.
+
+Infrared thermography: A method used to measure the status of equipment by analyzing the amount of heat it radiates.
+
+Instrumentation: Electronic or electromechanical devices, often referred to as meters, used to measure the flow, level, temperature and pressure of processes in different industrial applications. They monitor processes in power generation, manufacturing and refining plants. Information collected by various instruments is processed by analyzers and used to assess performance, sending alerts if readings are not as expected.
+
+Insulator: A material that does not conduct electric current, such as plastic, some kinds of silicon or glass. The term can also refer to a material that does not conduct heat. For clarity, the terms thermal insulator and electrical insulator may be used. (See also Conductor.)
+
+Integrated solar combined cycle (ISCC): Type of hybrid power plant where thermal energy from a concentrating solar power field is integrated into a combined cycle power plant. Such a combination allows the plant to increase output while reducing fossil fuel consumption and associated CO2 emissions. The same hybrid technology can be applied to coal or biomass power plants.
+
+Integration of renewable energy: Feeding electricity from intermittent sources of energy such as wind and solar into the power network without causing any disturbance to the power supply.
+
+(The) Internet of Things, Services and People (IoTSP): Refers to a concept utilizing web-based technologies that seamlessly integrate objects, devices, services and individuals so they can exchange data about themselves and their surroundings. ABB is helping to enable the IoTSP paradigm through intelligent, sensor-equipped devices and sophisticated software that collect and analyze data and turn it into actionable information. This empowers people to have more control over equipment and processes and to make better decisions about how to deploy resources and operate their businesses more efficiently and profitably.
+
+Inverter: An electrical device for converting direct current (DC) into alternating current (AC). (See also Rectifier.)
+
+Ionized gas: If a material is exposed to high temperatures or an electrical field, it can become ionized, ie, its particles can become electrically charged. Also known as plasma, ionized gases can enable an electric current to jump across a gap in an electric circuit. To avoid this problem, circuit breakers are equipped with various insulators that inhibit arc formation. See also Circuit breaker.
+
+ISO 9000: International standards for quality assurance set by the International Standards Organization. It includes some 20 elements of quality process performance, and is a prerequisite for delivering predictable, quality products to customers.
+
+ISO 14000: International standards for environmental management systems set by the International Standards Organization.
+
+Back to the top
+J
+No entries
+
+Back to the top
+K
+Key performance indicator (KPI): A measurable objective used by organizations to monitor progress towards a specific goal. Such measures are commonly used to define and evaluate an organization’s performance against internal benchmarks or those of peer organizations. 
+
+Back to the top
+L
+Lights-out factory: An automated factory that requires no light because no people work in it.
+
+Line thermal monitoring (LTM): Process that measures average power-line temperature and detects temperature changes in power lines. It is important because heat causes wires to expand and sag, resulting in short circuits, fires and blackouts if they contact treetops etc. (See also Wide-Area Monitoring System.)
+
+Load: A load in electrical terms is the power consumed by a device or a circuit. Load is also used to describe the total of all electricity consumers in a power system.
+
+Load management: Controlling loads in a utility system to limit peak demand, reduce costs, improve load factor, or in some other way improve the stability and reliability of electrical power distribution.
+
+Load tap changer (LTC): load tap changers are devices used to adjust the performance of transformers. Adjusting the tap changes the voltage of the transformer’s input or output.
+
+Loop flow: Inadvertent transmission of power through an unnecessary diversion in the transmission network. It is undesirable because it serves no purpose and incurs losses.
+
+Back to the top
+M
+Machines, electric: Motors and generators are collectively referred to as “machines” or “electric machines.” Motors are machines that convert electrical energy into mechanical work in the form of a rotating shaft, while generators convert the mechanical work of a rotating shaft into electricity.
+The speed of a “synchronous” machine, ie, the rate at which its shaft rotates, is dictated by the frequency of electricity in the grid to which it is connected. The speed of a synchronous machine is accurately predictable. This means that it maintains its speed irrespective of the load placed on it.
+Because synchronous motors can maintain a particular speed with extreme accuracy, they are used in performance-critical applications such as mechanical clocks and DVD drives. Synchronous generators are commonly used in power plants, where their predictable, consistent performance helps to maintain the quality and reliability of power supplies. Synchronous generators are also referred to as alternators.
+The speed of an asynchronous machine is slightly slower than the frequency of the electricity it consumes or generates. Asynchronous motors slow down as their load increases and asynchronous generators change speed with the torque (rotational force) that is applied to their rotors.
+Asynchronous machines are also referred to as induction motors/generators.
+
+Manifold: an arrangement of connected pipe and valves used to consolidate multiple pumps, tanks, and/or pipelines and a single unit.
+
+Maximum power point tracking: Feature of a power conditioning unit through which photovoltaic modules are operated at their optimal power production.
+
+Mechanical drivetrain: In the wind power industry, this term refers to the combination of the turbine’s main rotor shaft and bearings, gearbox (if used) and generator.
+
+Megavar (MVAr): One million VAr (volt-ampere reactive).
+
+Megavoltampere (MVA): One million VA (volt-ampere).
+
+Megawatt (MW): One million watts. One megawatt would be needed to light 10,000 one-hundred-watt light bulbs. If those bulbs were powered for 1 hour, 1 MWh of electrical power would be used. (See also Watt and Watt hour.)
+
+Meters: see Instrumentation.
+
+Microgrid: A microgrid is a small-scale power network that comprises generating units and consumers. Often including renewable power sources such as wind turbines and solar panels, microgrids may also be connected to the larger-scale grids from which they can draw power if locally generated supplies fail to meet demand.
+
+Microturbine: A small turbine generator of 30 - 250 kilowatts (kW) generating capacity, which can be located near a customer load.
+
+Mobile substation: A substation that can be transported, usually by truck, to temporarily replace equipment at the site of a failure or in the event of planned maintenance.
+
+Model predictive control (MPC): The online control of an industrial process (such as oil refining) that uses a virtual model of the process, which allows a computer to predict appropriate control settings.
+
+Motor control center (MCC) - A combination of one or more switching devices together with associated control, measuring, signaling, protective, regulating equipment contained within an assembly for the primary purpose of controlling, protecting and operating electric equipment, including but not limited to motors and variable speed drives.
+
+Multiterminal: An HVDC transmission with more than two stations, which enables either to tap off power in a station (or stations) in the middle or to feed in more power in the middle of the transmission link.
+
+Back to the top
+N
+n-1 (n minus one) is the operating standard to which European transmission system operators are obliged to work. It refers to a system that can maintain normal operations despite the loss of any single component. In the case of a power network, a component may be a transmission line, a generating unit of a power station, etc.
+
+Network control: Network control systems monitor and control the electricity network to keep power flowing and to preserve the balance between power generation and consumption.
+
+Network management: A system that uses network control and asset management to oversee all aspects (operational and maintenance) of a network.
+
+Back to the top
+O
+Ohm: Unit of electrical resistance. If a 1 volt source is connected to a wire with a resistance of 1 ohm, then 1 ampere of electric current will flow.
+
+Oil sands: Naturally occurring mixture of bitumen (a heavy, viscous form of crude oil), water, sand and clay. Using hydroprocessing technology, bitumen can be refined to yield synthetic crude oil.
+
+Optimization: The process of making a system as near to perfect or as effective as possible.
+
+Original Equipment Manufacturer (OEM): Manufacturers who produce an end product such as automobiles, machines or switchboards, incorporating components from sub-suppliers, such as ABB.
+
+Back to the top
+P
+Parallel: Electrical components that are connected in such a way that the flow of electricity can take multiple, or parallel, paths through the circuit are said to be connected “in parallel” or “in shunt,” as opposed to “in series.” If one of the components in a parallel circuit was to fail, the electricity would continue to flow through an alternative path. (See also Series.)
+
+Phase angle monitoring (PAM): A device that monitors power-network stresses caused by heavily loaded lines. This is part of the Wide-Area Monitoring System, which relies on a number of phasor measurement units (PMUs) to collect data from strategic positions in the grid. (See also Wide-Area Monitoring System and Phasor Measurement Units.)
+
+Phase-shifting transformer (also known as a quadratic booster): A specialized type of transformer used on 3-phase power grids (AC) to balance the active (real) and reactive power in the system (see Reactive power, Power factor correction and Three-phase power), preventing the loss of lines through physical overloading.
+
+Phasor Measurement Units (PMUs): Monitoring devices that are installed at critical nodes in a power network where they collect data on power flow. (See also Wide-Area Monitoring System, Line thermal monitoring.) Signals sent from the units via satellite to a central control room, enabling operators to identify and counteract any instabilities before they spread through the grid.
+
+Photovotaic cells (PV): Device that converts the sun's radiation directly into DC electricity. PV cells are made of semiconductor materials such as silicon, cadmium telluride and gallium arsenide. The semiconductor material can be structured in different ways including crystalline, multi-crystalline and amorphous form. Cells are assembled together using interconnections, terminals and protective devices and form a module. The module shields the assembly from environmental conditions.
+
+Photovoltaic plants: Photovoltaic plants convert the sun's radiation into electricity through the photovoltaic process. A photovoltaic plant is composed of many elements including PV modules, solar inverters, DC and AC low voltage components and monitoring equipment.
+
+Pig: A cleaning device placed that is used to scrape residues from the inner wall of oil pipelines. A pig is pushed through the pipeline by the pressure of the oil flowing past. Pipelines can be equipped with pig launch sites and pig traps. These are points at which pigs can be introduced or removed from the pipeline.
+
+Polyethylene: Also known as polythene, this plastic material has excellent properties of electrical insulation.
+
+Power factor: Power factor is a measure of an electrical circuit's effectiveness in doing useful work on a scale of zero (lowest) to 1 (highest). It reflects how much the waveforms of voltage and current are in phase, usually measured at the customer's load. When the voltage and current are significantly out of phase, as is common in industrial environments with many electric motors, the current will be high even at relatively low power levels. The economic result of this low power factor is expensive electrical losses on the circuit and underutilization of the circuit's power transfer capability. In these cases the customer or the electric utility may deploy additional capacitor banks near the customer load, restoring the power factor to or near unity and improving system utilization. (See also Power factor correction.)
+
+Power factor correction (reactive power compensation): Depending on the type of equipment a consumer connects to the electricity supply (whether there is a net consumption or generation of reactive power), power factor varies. Unless this variation is corrected, higher currents are drawn from the grid, leading to grid instability, higher costs and reduced transmission capacity. Most utilities impose penalties on consumers who fail to correct errant power factors. (See also Power factor.)
+
+Power losses: This term generally refers to electrical energy that is lost to inefficiencies in transmission, distribution, or in the use of electricity. As electricity flows through a conductor, individual electrons collide with the atoms of the conductor and transfer energy to them, causing them to heat up. This heat is lost to the atmosphere in the form of thermal radiation. Some power is also lost to electromagnetic radiation.
+Losses in an electricity distribution system depend on the length of the cable (the longer the cable, the greater the losses); the conductivity of the material (higher resistance means greater losses); the square of the current (at twice the current, there will be four-times the losses); and the cross-sectional area of the cable. Therefore, to minimize losses, power should be transmitted at the highest practical voltage. This reduces the current and therefore the amount of power lost in transmission. Most electrical transmission systems are alternating current at voltages between 110 and 800 kV. (See also HVDC.)
+
+Process Industry: an industry in which raw materials are treated and converted into products by means of a series of stages (or processes). Process industries include oil and gas refining, pharmaceutical and chemical production, water and sewerage treatment etc.
+
+Process Analytical Technology (PAT): as defined by the United States Food and Drug Administration, PAT is a mechanism to design, analyze, and control pharmaceutical manufacturing processes through the measurement of critical process parameters, which affect critical quality attributes. The concept actually gains a clearer understanding of processes by defining and monitoring their critical process parameters, in order to improve productivity by enhancing consistency and minimizing rejects.
+
+Process automation: The term process automation is used to refer to an automation system, the principal purpose of which is to automate or support the operator of a manufacturing process. Such a process can be the manufacturing or treatment of any goods made in a continuous or quasi-continuous manner such as fuel, paper, cement, steel, chemicals, food.
+
+Process historian: A process historian is a mechanism for storing data relating to a particular process.
+The data stored by modern historians typically include time-stamped information from a variety of traceable sources. The data are used for modeling, optimization and auditing purposes.
+
+Power capacity: In terms of generation, the capacity of a power plant is the maximum power that installation is capable of producing. It does not account for periods of inactivity due to maintenance work, for example. Nuclear power stations have low maintenance requirements and few shutdowns (as do all “base-oad” power plants), which enable them to achieve about 90 percent productivity. Gas-fired power stations, which are more expensive to run, often operate well below capacity, ramping up to full productivity only during periods of high demand. This means that their productivity may be only 20 - 30 percent of the plant’s actual capacity. The relationship between capacity and output is known as the “capacity factor,” where 100 percent is the theoretical maximum.
+As an example, the hydropower station on the Itaipu dam in Brazil has a total generating capacity of 14,000 megawatts and could therefore theoretically produce 122,640,000 megawatt-hours of electricity per year (14,000 MW x 8,760 hours = 122.6 million MWh). The Itaipu dam actually produced 91,651,808 MWh of electricity in 2009. The actual production divided by the theoretical maximum production gives Itaipu a capacity factor of 74.7 percent. (See also Base-load power plant.)
+
+Programmable logic controller (PLC, or programmable controller): These are electronic devices used to control equipment, especially in automation. They are small, programmable units that can receive information from output devices, such as sensors in a control system, and transmit signals to input devices, such as actuators, that can effect changes in the control system.
+
+Pumped storage: see Electricity storage.
+
+Back to the top
+Q
+No entries
+
+Back to the top
+R
+Reactive power: It is a concept that describes the loss of power in a system resulting from the production of electric and magnetic fields in it. Reactive loads in a power system drop voltage and draw current, which creates the impression that they are using up power, when they are not. This “imaginary power” or “phantom power” is called reactive power, and is measured in Volt-Amps-Reactive (VAR). Reactive power is significant because it must be provided and maintained to ensure continuous, steady voltage on transmission networks. Reactive power is produced for maintenance of the system, and not for end-use consumption. If elements of the power grid cannot get the reactive power they need from nearby sources, they will pull it across transmission lines and destabilize the grid. In this way, poor management of reactive power can cause major blackouts.
+
+Real time: In business, a system is described as real-time if it will operate in a deterministic manner, ie, it will respond to an input within a defined time limit. For example, safety-relevant systems must always respond within pre-determined time limits. Many automation applications are also real-time, as unpredictable response times and reaction delays would effectively destabilize the process. To ensure a system is real-time, it must fulfill stringent demands with both hardware and software design.
+
+Some applications are described as near real-time. Such systems are sufficiently fast that it can be assumed that critical time limits will not be exceeded. An example would be the communications between an automation system and a business system designed to provide management level information, which must be fast enough for accurate decisions, but not instantaneous.
+
+Recloser: A circuit breaker designed to interrupt short-circuit current and reconnect the circuit after interruption.
+
+Rectifier: An electrical device used to convert alternating current (AC) into direct current (DC). (See also Inverter.)
+
+Regenerative braking: A braking method that is used to recoup some of the energy lost as vehicles slow down or brake against an incline (downhill). It exploits the ability of electric motors to work as generators during breaking. This enables the mechanical energy from the load to be converted into electric energy and returned to the electricity supply systems for use either by other vehicles, or by the braking vehicle at a later time if onboard energy storage systems such as batteries or super-capacitors are available. The method can be used to improve the energy efficiency of cranes and elevator systems, trains and hybrid cars.
+
+Relays: 1. A switch that can be operated remotely.
+2. Control and protection relays are switches used to signal and control the operation of electrical equipment and systems. They include electronic and electromechanical relays and components; high-voltage protection, substation control and communications; automated substation components; and distribution relays.
+
+Remote Terminal Unit (RTU): Remote terminal units collect data from points around a power transmission and distribution network and transmit the information to a central location. They are typically used to control and monitor power networks, and are components of supervisory control and data acquisition (SCADA) systems.
+
+Resistance: Cables and electrical devices resist the movement of electrons that constitute the current passing through them. This is known as electrical resistance and is measured in Ohms. If an electric circuit is likened to water flowing through a system of pipes, the resistance in a wire is analogous to the restriction of the water flow imposed by the diameter of the water pipe, or any obstacles within the pipe.
+
+Resistor: A resistor is any electrical component that resists the flow of electrical current. Resistors can be used to control current and therefore protect a circuit from overload. Resistors are also an important component in instrumentation and are used together with capacitors in power filters to eliminate unwanted harmonics.
+
+Ringgeared mill drives (RMD): a system used to drive (rotate) a mill. The RMD itself is comprised of motor(s) (synchronous or asynchronous), a frequency converter, transformers and control equipment. As opposed to gearless mill drives, the motor in RMD is mechanically connected to the mill via a coupling, pinion(s) and ringgear.
+
+Ringmotor: also called wrap-around motor, a ringmotor is a very large synchronous motor. The poles of the motor are directly flanged on the driven equipment. (See also Machine).
+
+Robot, industrial: An industrial robot is defined by ISO 8373 as an automatically controlled, reprogrammable, multipurpose, manipulator, programmable in three or more axes, which may be either fixed in place or mobile for use in industrial automation applications. Typical robot applications include welding, painting, assembly,
+pick and place, packaging and palletizing, product inspection, and testing, all accomplished with high end-urance, speed, and precision. ABB developed the first commercially available electric robot almost 40 years ago.
+
+Back to the top
+S
+SCADA (supervisory control and data acquisition): A SCADA system is a computer system that gathers and analyses data across distributed industrial and enterprise-wide equipment, processes and infrastructure. SCADA systems can be deployed in a wide variety of application areas, such as oil and gas gathering, gas and liquids transport pipelines, oil and gas distribution networks, water treatment facilities, electrical networks, and many other areas. SCADA systems may also be used as the platform for higher level applications such as facilities and asset management, load balancing, production management, leak detection, supply contracts management and a host of other applications.
+
+Semiconductor: A semiconductor is a material whose electrical properties can be significantly influenced by physical factors (mostly electrical conditions, but also pressure, temperature, light, etc). This means that a semiconductor will behave either as an insulator or a conductor of electricity, depending on the conditions to which it is exposed. They are a fundamental component of electronic devices. Because of their ability to respond to external conditions, semiconductors are commonly used in sensor systems.
+
+Series: Electrical components that are connected in an unbranched line are said to be “in series,” as opposed to “in parallel” or “in shunt.” If any one of the components in a series circuit was to fail, the circuit would be broken and no electricity would flow. (See also Parallel.)
+
+Series capacitor: See FACTS.
+
+Ship-to-shore connection: see HVSC
+
+Short circuit: An electric contact between parts of an electric circuit, which causes a very high current, increases in temperature and potentially fire, if the circuit is not properly protected. This can occur if two live wires come into contact with each other, perhaps because of worn insulation. The term is also used when defining the safe operating conditions for electrical devices. If a device is said to have a short-circuit resilience of 400 amps (A), that means that it can be subjected to up to 400 A before it will shut itself down.
+
+Shunt: see Parallel.
+
+Shunt reactors: Shunt reactors are used in AC high voltage energy transmission systems to stabilize the system voltage during load variations. The shunt reactor can be regarded electrically as a large coil connected between the line and ground to absorb reactive power in the system. This function is especially important at high voltages, typically over 130 kilovolts (kV), and long transmission lines. Cable systems require even more compensation of reactive power, also at lower system voltage due to the high capacitance of the cable. Besides stabilizing the system voltage, the shunt reactor increases the active or the useful power transmitted in the system.
+
+SIL (Safety integrity level): The safety integration level (SIL rating) of a system indicates the level of risk associated with it. It is a measure of its ability to perform safely and, in the event of failure, to fail safely. There are four SIL levels, with level 4 indicating the highest performance.
+
+Smart grid: Smart grids are modern power transmission and distribution systems, capable of accepting power of any quality from any source and delivering it to consumers of all kinds via a bidirectional supply system. They are an evolutionary development of traditional grids, which are based mainly on centralized generating plants, supplying power via long-established, unidirectional transmission and distribution systems whenever consumers request it. Smart grids are being developed in response to rising demand for power and the increasing need to incorporate renewable or distributed, less predictable generation into the grid. ABB’s smart grid concept is of an observable and controllable system, based on industry-wide standards, providing a stable, secure, efficient and environmentally sustainable network. The system will cross national and international borders. It must be able to detect and react automatically to disturbances and changes in supply and demand, re-establishing balance and maintaining the stability demanded by both end-users and government legislation. This is achieved by an automation and information technologies infrastructure integrating the whole supply chain from production to consumption, based on an infrastructure of enabling smart grid components. Thus smart grids also accommodate customer response management systems that allow utilities to optimize the performance of the grid and to integrate consumption into balancing load and generation. Many of the technologies and standards needed to establish smart grids on a large scale have been the subject of research and development at ABB for some years and many are already in use.
+
+Solar inverters or Photovoltaic (PV) inverters convert the variable DC output of PV modules into AC power that can be fed into the electrical grid. Solar inverters are categorized into off-grid and grid-tie inverters. Grid-tie inverters are categorized into central inverters (used in utility and commercial scale PV plants), string inverters (used in commercial and residential scale PV plants) and micro-inverters (used as module scale inverters).
+
+Solar power (thermal or concentrating solar power): Solar power is electricity generated using sunlight as its primary energy source. In the case of thermal solar power, the sun’s heat is used to heat water, either directly or via a heat-conducting fuid, and generate steam. The steam is then used to generate electricity in the same way as it is used in conventional thermal power stations.
+Thermal solar power is suitable for large-scale generating plants (eg, Desertec) and can be used in combination with conventional generation (eg, gas-fired).
+Static var (volt amperes reactive) compensator (SVC): A device that provides fast-acting reactive power compensation (see Power factor and Power factor correction) in high-voltage electricity networks. Cheaper to build and maintain than rotating compensation devices, such as synchronous compensators (see also FACTS), SVC has no rotating parts (it is static). It compensates for fluctuations in the voltage and current of an electric grid, thereby allowing more power to flow through the network while maintaining safety margins, increasing network stability.
+
+Solar trackers: A solar tracker is a structure that orients one of its surfaces to follow the path of the sun in order to maximize incident solar radiation on this surface. One axis trackers follow the sun's path from east to west, two axes trackers orient the surface towards the sun throughout the day.
+
+Storage: see Electricity storage.
+
+String test: In a string test, a complete drive train, comprising a frequency converter, a motor and an application, such as a pump or a compressor, are tested in a factory situation that simulates site conditions. String tests are performed prior to delivery to verify the performance and functionality of the equipment and to ensure that the units comply with specifications under the working conditions of the destination plant. String tests are time consuming and expensive but often reduce time spent on erection and commissioning on the customer’s premises.
+Substation automation: The various technologies, methods and equipment used for the automatic operation of substations. This includes control and protection functions.
+
+Submetering: Metering of individual units in multi-unit properties.
+
+Substation: Substations are key installations in the power grid. They house equipment for the protection and control of electrical power transmission and distribution, including power transformers, switchgear and measuring equipment. (See also Reactive power, Power factor correction, Circuit breaker and Switchgear.)
+
+Supercritical (SC) and ultra-supercritical (USC) coal-fired power plants: Conventional coal-fired power plants, which burn fuel to boil water that generates steam to activate a turbine, have an efficiency of about 31 percent. Supercritical and ultra-supercritical power plants operate at temperatures and pressures above the critical point of water. The critical point of water – above 374°C and 22.064 MPa - represents the temperature and pressure at which liquid and gas phases coexist in equilibrium, where there is no difference between water gas and liquid water. In a power plant, this results in higher efficiencies above 45 percent, compared to turbines driven by steam at a lower, subcritical temperature. Supercritical and ultra-supercritical power plants require less coal per megawatt-hour, leading to higher efficiency, lower costs and lower emissions, including carbon dioxide and mercury. Operating under such conditions requires the use of extremely robust equipment. The specifications for products used in supercritical and ultra-supercritical plants are higher than those used in subcritical plants.
+
+Supergrid: Trademarked by Airtricity in 2006, the term Supergrid refers to a pan-European subsea power grid. The term is widely used in the context of renewable energy. The Desertec project, for example would rely on a supergrid for the transmission of offshore wind power from European coastlines, solar power from northern Africa and southern Europe, together with hydro power from northern Europe.
+
+Surge protector: Also known as a surge arrester, this is a device used to protect equipment from damage caused by high-voltage power surges. These can occur when substations are hit by lightning or as a result of switching operations in high-voltage transmission.
+
+Switchgear: Equipment used to control, protect, and regulate the flow of electrical power in a transmission or distribution network. It is often located in substations, but can be associated with any electrical equipment that might need to be isolated for fault correction (eg, if a voltage drop occurred in one part of the grid, it might be necessary to shut off the affected section to prevent the fault spreading), or for maintenance purposes. The main components of switchgear are circuit beakers, which interrupt high-voltage current to protect electrical equipment from excessive current. The terms gas- and air-insulated switchgear (GIS and AIS) refer to switchgear equipped with gas- and air-insulated circuit breakers. The gas-insulated variety is more costly than the air, but it takes up less space and is therefore the preferred option when installing switchgear in urban environments (the substations can be one fifth the size of a conventional AIS substation).
+
+Synchronous machines: See Machines
+
+System 800xA: An Industrial IT-compatible control system that provides a means of achieving measurable productivity and profitability improvements. The full name is Extended Automation System 800xA, and it is used in many industry sectors to oversee and control a wide range of processes. It extends the scope of traditional control systems to include all automation functions within a single operations and engineering environment. This enables plants to perform in a more intelligent and cost-effective way, and to improve productivity. 
+
+Back to the top
+T
+Three-phase power: A form of electricity used to supply heavy loads (power-hungry electrical equipment) such as industrial air conditioning units, grinding machines etc. Almost all power is generated as three-phase and, with the exception of HVDC, most transmission lines are three-phase. Three-phase is a more efficient way of delivering heavy loads and the three-phase motors it supplies are more efficient, smaller and cheaper to build than their single-phase counterparts. Wiring is simplified because no neutral return path is provided. Residential premises, however, are supplied with single-phase power.
+
+Thyristor: A thyristor is a semiconductor device used in electrical systems, such as HVDC installations, as a high-speed, high-power switch, capable of turning power supplies of many megawatts on within a split second. Thyristors are a component used in inverters and rectifiers. (See also Inverter and Rectifier).
+
+Thyristor-controlled series capacitor: see Capacitor
+
+Traction motor: A traction motor is typically used to power the driving wheels of a railroad locomotive, a tram or an electric train, like a subway or light rail vehicle. There is usually one traction motor on each driven axle. Traction motors differ from other motors in the scale of their design. They must be extremely compact, because of the limited space available on the locomotives, and highly reliable as there is no room for any backup systems. (See also Traction transformer.)
+
+Traction substation: A substation used to feed power into railway electrification systems.
+
+Traction transformer: This is a fundamental component of a rail locomotive’s traction chain. It adapts the catenary (overhead) voltage to the various low voltage levels needed by the train, mainly for traction, but also for lighting, heating and ventilation, passenger information and safety systems such as door blocking, brakes, signaling and communication. The traction transformer is the unique energy transfer point between high voltage (HV) and low voltage (LV) and therefore must achieve the highest availability and reliability levels to guarantee uninterrupted train service.
+
+Transformer: A transformer is a device used to transfer energy from one AC circuit to another and to increase (step up) or reduce (step down) voltage as required. Transformers are an essential component in an electrical grid. Electricity generated in a power station must be stepped up to the appropriate voltage for transmission (between 100 and 800 kV) and then stepped down again to the distribution voltage (110 - 230 V), which is delivered to homes. Note that the voltage of DC cannot be transformed in the same way as it can for AC. (See Alternating current.)
+
+Transmission and distribution (T&D): The term refers to the transport of electricity from the power station to the end user. Transmission is the movement of power at high voltage (above ca. 50 kV), usually over long distances. Raising the voltage allows power to be transmitted more efficiently (ie, with fewer losses - at lower voltages, more electrical power is converted to heat and lost to the atmosphere) over a wide area. Distribution is the transport of electricity at medium voltage (between ca. 1 and 50 kV) over shorter distances to industrial, commercial and residential areas. Transformers are generally, though not always, housed in substations.
+Turbine: A propeller-like device that is turned by a stream of hot gas (steam in a conventional thermal power station), water (in a hydro plant), gas (in a gas power plant: here the gas burns in the turbine and exhaust gases cause it to rotate); or wind (as in a wind farm). The rotation of the turbine drives the generator that converts the mechanical rotation into electrical power. (See also Generator.)
+
+Turbocharger: An air compressor that is used to boost the oxygen intake of a motor. In an internal combustion engine, a mixture of fuel and air is pumped into the confined space of a piston cylinder and ignited by a spark. When it ignites, the fuel burns, using the oxygen in the air, and the remaining gasses expand almost instantly, releasing a huge amount of energy. This expansion pushes the piston out, turning the crankshaft that drives the engine. The amount of fuel that can be ignited in the cylinder, and therefore the power generated, is limited by the amount of oxygen present. If there is too little oxygen, not all the fuel will burn. By compressing the air that is fed into the cylinder, more oxygen is made available for the combustion process, allowing more fuel to be burned, more completely, leading to more power obtained at higher efficiency and “cleaner” exhaust-emissions.
+
+Turbogenerator: a collective term referring to a turbine and the generator to which it is connected.
+
+Turnkey project: A turnkey project is one in which the contractor will design, engineer, deliver and commission an installation, taking responsibility for all aspects of the work. A lump-sum turnkey project is one in which the contractor undertakes a turnkey project for a set fee, agreed by the contractor and the customer before the work has begun.
+
+Back to the top
+U
+Ultrahigh voltage (UHV): This term refers to voltages in excess of 800 kilovolts (kV). UHV transmission using alternating current (AC) has been possible for several decades, and it is now also possible to transmit power this way using direct current (DC). DC transmission has lower losses and requires fewer overhead lines than AC transmission. Ultrahigh-voltage DC links will make it viable to produce electricity in remote regions and transmit it to centers of demand via energy “superhighways.” The efficient transmission of electricity at 800 kV DC power transmission is now feasible over distances as far as 3,000 km. UHVDC systems are cheaper, smaller and more efficient than comparable AC transmission systems.
+
+Upstream: The oil industry term “upstream” refers to oil and natural gas exploration and extraction activities. See also Downstream.
+
+Back to the top
+V
+Vacuum interrupter: A vacuum interrupter is a device that uses a vacuum to extinguish the arc formed when a circuit breaker is opened. It also insulates the contacts after the arc has been interrupted. Vacuum interruption is seen as the ideal switching technology for medium-voltage applications. Excellent switching capabilities, combined with high reliability and a compact design, provide economical switching solutions with virtually no maintenance requirements. Vacuum interruption offers the lowest environmental impact of all medium-voltage switching technologies over the entire product life cycle. Vacuum interrupters are comprised of materials that are environmentally benign and safe to handle during periodic out-of-service maintenance and at end-of-life disposal. The devices perform well in all medium-voltage switching applications required in modern power systems. They have exceptionally long life and are virtually maintenance free.
+
+Variable Shunt Reactors: A traditional shunt reactor has a fixed rating. Recently Variable Shunt Reactors (VSRs) have been developed and introduced on the market. The rating of a VSR can be changed in steps. The maximum regulation range typically is a factor of two, eg, from 100-200 MVAr (see Megavar). The regulation speed is normally in the order seconds per step and around a minute from max to min rating. VSRs are today available for voltages up to 550 kilovolts (kV). The largest VSRs in operation today have a rating of 120-200 MVAr at 420 kV.
+The variability brings several benefits compared to a traditional fixed shunt reactor. The VSR can continuously compensate reactive power as the load varies and thereby secure voltage stability. Other important benefits are:
+reduced voltage jumps resulting from switching in and out of traditional fixed reactors
+flexibility for future (unknown) load and generation patterns
+improved interaction with other transmission equipment and/or systems such as coarse tuning of static var compensator (SVC) equipment
+limiting the foot print of a substation if parallel fixed shunt reactors can be replaced with one VSR
+a VSR can be used as a flexible spare unit and be moved to other locations in the power grid if needed.
+
+Variable-speed drive: see Drive.
+
+Volt: standard unit of electrical “pressure” in a circuit. (See also Voltage.)
+
+Voltage (potential difference): The voltage between two points in an electrical circuit is a measure of the potential difference, or the force, that is pushing electrons between these two points. It is analogous to water pressure in a water system. Voltage is measured in volts, and is directly proportional to the current and resistance of a circuit: V=IR, where V = potential difference in volts, I = current in amperes (amps) and R = resistance in ohms. This is Ohm’s law.
+
+Voltage drop: A voltage drop is a reduction in the force that “pushes” current through a circuit. Under these conditions, resistive loads, such as light bulbs, will give suboptimal performance- lights will flicker or become dimmer because less current is flowing. Inductive loads, such as motors, respond to voltage drops by working harder to obtain the same power, which can cause overheating, increased operating costs and the risk of equipment failure. Devices such as computers often have sensors that warn of suboptimal voltage or excess heating and will shut down automatically in response to a voltage drop.
+
+Voltage rating: The maximum voltage that can be applied to an electronic device.
+
+Back to the top
+W
+Waste-to-energy plant: A waste-to-energy plant produces energy, either heat or electricity using waste as a fuel. Their furnaces cannot easily be ramped up or down and so the plants are not used for peak-load generation. Due to the highly variable composition of the plants’ fuel, stringent environmental standards are imposed and waste-to-energy plants use sophisticated flue-gas cleaning devices and monitoring devices to ensure emission control.
+
+Watt (W): Standard unit of electrical power (1 watt = 1 amp at 1 volt). The watt is also a general unit of power. One watt = 1 joule per second.
+
+Watt hour (Wh): 1 watt hour is the amount of electrical energy consumed by a 1 watt load over a period of one hour. For example, a 100 watt light bulb (a 100 watt load) uses 100 watt-hours of energy every hour. Rather confusingly, watt-hours are sometimes used to describe “power.” This is incorrect. Watt-hours are a measure of energy transferred, ie, the product of power (kW) x time (hours). Confusion can also arise when describing electricity generation. For example, a wind farm described as “150 MW” has a peak power output of 150 MW. If the farm was 100 percent efficient, it would transfer 150 MW x 24 hours = 3600 MWh to the electricity grid every day. Because of various inefficiencies and the fact that wind blows erratically, wind turbines are actually only about 30 percent efficient. This means that 150 MW (theoretical maximum) x 24 h (number of hours in a day) x 30 percent (efficiency) = 1080 MWh will be produced each day.
+Cables can also be described as, for example, 350 MW. This is the capacity of the cable, ie, the maximum amount of power it can carry. In an hour, a 350 MW cable could (theoretically) deliver 350 MWh of electricity.
+
+Web inspection system (WIS): Web inspection systems are used by the pulp and paper industry to inspect the surface of the paper as it is being produced. The systems can detect and report many types of defects, including holes, spots and streaks.
+
+Wide-area monitoring system (WAMS): WAMS is an advanced early-warning technology for power grids that helps operators prevent system instabilities and overloads, as well as cascade tripping that leads to power blackouts. It comprises a series of phasor measurement units, set up in strategic positions around the grid. These monitor stresses (loads and temperatures) on the power lines and send data back to a central control station via a GPS satellite link. This allows operators to identify problems at an early stage and prevent widespread disruption of the grid (ultimately rolling blackouts). WAMS is used in conjunction with phase shifting transformers to protect and stabilize power grids.
